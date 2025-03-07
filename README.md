@@ -12,7 +12,7 @@ Este projeto utiliza a biblioteca OpenCV para capturar vídeo da webcam e detect
 
 1. Clone este repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone [<URL_DO_REPOSITORIO>](https://github.com/Matheusisa/Sistema_de_Interpreta-o_de_Gestos_com_Python_e_Machine_Learning.git)
     ```
 2. Navegue até o diretório do projeto:
     ```bash
